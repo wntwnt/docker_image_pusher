@@ -1,3 +1,4 @@
 #jlesage/baseimage-gui:alpine-3.15-v4.5.3
 #jlesage/baseimage-gui:alpine-3.10-v3.5.3
-kramergroup/vnc-alpine:matmod
+#kramergroup/vnc-alpine:matmod
+alpine:3.16
