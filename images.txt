@@ -3,4 +3,5 @@
 #kramergroup/vnc-alpine:matmod
 #alpine:3.16
 #ubuntu:20.04
-alpine
+#alpine
+yangxuan8282/alpine-xfce4-novnc:amd64
