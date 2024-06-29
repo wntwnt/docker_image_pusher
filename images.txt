@@ -4,4 +4,5 @@
 #alpine:3.16
 #ubuntu:20.04
 #alpine
-yangxuan8282/alpine-xfce4-novnc:amd64
+#yangxuan8282/alpine-xfce4-novnc:amd64
+centos:7.9.2009
