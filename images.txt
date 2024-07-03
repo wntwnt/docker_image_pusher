@@ -6,4 +6,5 @@
 #alpine
 #yangxuan8282/alpine-xfce4-novnc:amd64
 #centos:7.9.2009
-kasmweb/core-ubuntu-focal:develop
+#kasmweb/core-ubuntu-focal:develop
+kasmweb/core-alpine-320:develop
