@@ -8,3 +8,4 @@
 #centos:7.9.2009
 #kasmweb/core-ubuntu-focal:develop
 kasmweb/core-alpine-320:develop
+httpd:2.4.63-bookworm
